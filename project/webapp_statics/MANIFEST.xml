@@ -190,6 +190,7 @@
          <extension>n64</extension>
          <extension>v64</extension>
          <extension>z64</extension>
+         <extension>zip</extension>
       </extensions>
       <download_links>
          <link>http://www.planetemu.net/roms/nintendo-nintendo-64</link>

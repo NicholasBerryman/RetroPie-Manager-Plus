@@ -319,6 +319,7 @@
          <extension>n64</extension>
          <extension>v64</extension>
          <extension>z64</extension>
+         <extension>zip</extension>
       </extensions>
    </system>
    <system key="nds" name="Nintendo DS">
